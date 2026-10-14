@@ -1,4 +1,5 @@
-## Systems Architect | Digital Twins · Virtualization · Co-Simulation · CI/CD
+### Systems & Software Architect | Virtual Engineering at Scale | Digital Twins, Embedded Controls, MBSE, MBSD, Co-Simulation & CI/CD
+
 
 I architect model-based engineering systems for complex, mission-critical products that scale — technically, operationally, and organizationally.
 
